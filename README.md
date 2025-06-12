@@ -1,4 +1,4 @@
-# CV Data Extractor and Renamer 📄✨
+# AI CV Data Extractor and Renamer 📄✨
 
 This Python tool automates the process of extracting key information from CVs (PDF, DOC, and DOCX formats) using the Gemini AI model and OCR capabilities. It then organizes this data into an Excel spreadsheet and can even rename PDF CVs based on the extracted name.
 
@@ -36,7 +36,7 @@ Before running this tool, ensure you have the following installed and configured
 1.  **Clone the repository**:
     ```bash
     git clone https://github.com/MemonDeveloper/AI-CV-Data-Extractor.git
-    cd CV-Extractor-Renamer
+    cd AI-CV-Data-Extractor
     ```
 2.  **Install Python dependencies**:
     ```bash
