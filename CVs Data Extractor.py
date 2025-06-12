@@ -14,7 +14,7 @@ import string
 from pdf2image import convert_from_path
 
 # Gemini API Configuration
-genai.configure(api_key="AIzaSyDTwdYZEX5Sg8hZU3z09Pk3XQ_emzrWuXs")  # 🔁 Replace this with your real API key
+genai.configure(api_key="ddddd")  # 🔁 Replace this with your real API key
 model = genai.GenerativeModel("models/gemini-2.0-flash")
 
 # Tesseract OCR path
