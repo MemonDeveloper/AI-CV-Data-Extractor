@@ -35,7 +35,7 @@ Before running this tool, ensure you have the following installed and configured
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/CV-Extractor-Renamer.git
+    git clone https://github.com/MemonDeveloper/AI-CV-Data-Extractor.git
     cd CV-Extractor-Renamer
     ```
 2.  **Install Python dependencies**:
